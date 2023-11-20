@@ -1,1 +1,2 @@
-# SurfacePhotometery_studen
+# SurfacePhotometery_student
+Dimitri Schmitz
